@@ -17,4 +17,4 @@ export const ERROR_TYPES = {
   InternalError: 'InternalError',
 };
 
-export const IntroduceAgendaIntent = 'IntroduceAgendaIntent';
+export const INTRODUCE_AGENDA_INTENT = 'IntroduceAgendaIntent';
